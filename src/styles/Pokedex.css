@@ -1,0 +1,35 @@
+.pokedex{
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+    
+    background-color: rgb(240, 240, 240);
+}
+
+.app_pokedex{
+    display: flex;
+    justify-content: center;
+    max-width: 1440px;
+    min-width: 250px;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.title_bien{
+
+    padding-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    min-width: 200px;
+    margin: 0 20px;
+}
+.text2{
+    font-size: 20px;
+    color: gray;
+}
