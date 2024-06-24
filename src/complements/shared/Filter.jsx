@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import useFetch from '../../hook/useFetch'
 import { useDispatch } from 'react-redux'
 import { setInputValue } from '../../assets/store/slices/pokemon'
-import "/Users/usuario/Desktop/REACT/entregable-5-pokedex/src/styles/filter.css"
+
 
 
 
