@@ -30,7 +30,7 @@ navigate("/Pokedex")
     <div className='home'>
       <div className='principal'>
         <figure>
-          <img className='img_home' src="\src\img\pokedex.png" alt="" />
+          <img className='img_home' src='.\pokedex.png' alt="" />
         </figure>
       <h2>¡Hi triner!</h2>
       <p>to star give me your name</p>

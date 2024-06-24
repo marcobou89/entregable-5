@@ -10,7 +10,7 @@
 .app_pokedex{
     display: flex;
     justify-content: center;
-    max-width: 1440px;
+    max-width: 800px;
     min-width: 250px;
     justify-content: center;
     flex-wrap: wrap;
